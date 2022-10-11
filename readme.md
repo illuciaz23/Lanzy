@@ -1,3 +1,12 @@
 # Python机器学习
 
-There is nothing yet.
+## 1
+
++ 数据
+
++ 模型
++ 目标函数
++ 算法
+
+
+
